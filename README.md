@@ -43,7 +43,10 @@ A Job Portal application that allows users to search and apply for jobs, and for
    npm start
 
 2. Start the frontend server:
-  ```bash
-   cd frontend
-npm start
-   
+   ```bash
+    cd frontend
+    npm start
+3. Open your browser and navigate to
+   ```bash
+   http://localhost:3000
+ 
